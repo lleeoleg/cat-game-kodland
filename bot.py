@@ -1,5 +1,8 @@
 """
-bot.py 
+bot.py
+
+@cat_game_kodland_bot - название бота в Telegram
+
 """
 import telebot
 import requests
